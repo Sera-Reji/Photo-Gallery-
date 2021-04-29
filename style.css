@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: black;
+}
+
+#avenger{
+    width: 1550px;
+    height: 700px;
+}
+h1{
+    font-size: 60px;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: deepskyblue;
+    font-family: 'Pacifico', cursive;
+}
+img{
+    height: 200px;
+}
+
+#mycarousel{
+    background-color: midnightblue;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
+#mycarousel_2{
+    background-color: red;
+}
+#mycarousel_2 img{
+    height: 300px;
+    margin-top: 35px;
